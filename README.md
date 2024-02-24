@@ -1,1 +1,2 @@
 # IMS
+(Item Management System)
